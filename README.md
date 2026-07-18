@@ -36,7 +36,7 @@ Full-stack Developer with extensive experience designing and optimizing APIs, da
 ### Work History
 
 #### Lead Developer — AiQue Innovation Tech Corp
-<small>*2023-06 – Present* | Full-time, BGC Taguig, Metro Manila</small>
+*2023-06 – Present* | Full-time, BGC Taguig, Metro Manila
 
 **Projects:**
 - **Qube Smart Locker (IoT System)** — A smart locker management solution integrating IoT hardware with a web-based control system for monitoring, access control, and reporting.
@@ -53,12 +53,12 @@ Full-stack Developer with extensive experience designing and optimizing APIs, da
 - Supported DevOps processes, including environment configuration and deployment automation.
 - Contributed to CI/CD pipelines, assisting in automated testing, build, and deployment processes.
 
-<small>**TeckStack Used:** React.js · Next.js · React Native · Node.js · GitLab · GitHub · Docker · TypeScript · REST APIs · Alibaba Cloud · CI/CD · HTML · JavaScript · Jira · PostgreSQL · MongoDB · Agile</small>
+**TeckStack Used:** React.js · Next.js · React Native · Node.js · GitLab · GitHub · Docker · TypeScript · REST APIs · Alibaba Cloud · CI/CD · HTML · JavaScript · Jira · PostgreSQL · MongoDB · Agile
 
 ---
 
 #### Full Stack Web Developer — Eclaro (APPTEGA)
-<small>*2022-06 – 2023-02* | Full-time, Quezon City, Philippines</small>
+*2022-06 – 2023-02* | Full-time, Quezon City, Philippines
 
 **Role & Responsibilities:**
 - Maintained and enhanced the Apptega security compliance platform.
@@ -67,12 +67,12 @@ Full-stack Developer with extensive experience designing and optimizing APIs, da
 - Collaborated with cross-functional teams to deliver stable and scalable releases.
 - Supported Agile development processes and sprint-based delivery.
 
-<small>**TeckStack Used:** Angular · PHP · MySQL · Laravel Framework · JavaScript · Node.js · Docker · TypeScript · Agile</small>
+**TeckStack Used:** Angular · PHP · MySQL · Laravel Framework · JavaScript · Node.js · Docker · TypeScript · Agile
 
 ---
 
 #### Full Stack Web Developer — Winterwind
-<small>*2022-02 – 2022-06* | Remote Freelance, Vancouver, Canada</small>
+*2022-02 – 2022-06* | Remote Freelance, Vancouver, Canada
 
 **Role & Responsibilities:**
 - Provided technical and development support to multiple project teams across the organization.
@@ -81,12 +81,12 @@ Full-stack Developer with extensive experience designing and optimizing APIs, da
 - Supported development, testing, and deployment activities.
 - Ensured system stability and continuous delivery support.
 
-<small>**TeckStack Used:** DevOps · PHP · Vue.js · MySQL · Laravel Framework · AWS · Agile · Trello · Agile </small>
+**TeckStack Used:** DevOps · PHP · Vue.js · MySQL · Laravel Framework · AWS · Agile · Trello · Agile 
 
 ---
 
 #### Full Stack Web Developer — BnB Credit Builders
-<small>*2020-06 – 2022-01* | Remote Freelance, Erie, PA, United States</small>
+*2020-06 – 2022-01* | Remote Freelance, Erie, PA, United States
 
 **Role & Responsibilities:**
 - Developed and maintained existing code, fixed bugs, and API integration.
@@ -97,6 +97,6 @@ Full-stack Developer with extensive experience designing and optimizing APIs, da
 - Injected/implemented Node.js API to the system for faster work development.
 - Practiced Scrum methodology.
 
-<small>**TeckStack Used:** PHP · Vue.js · MySQL · Laravel Framework · OOP · Laravel · Scrum</small>
+**TeckStack Used:** PHP · Vue.js · MySQL · Laravel Framework · OOP · Laravel · Scrum
 
 
