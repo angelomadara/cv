@@ -1,5 +1,6 @@
 # Angelo Madara
-**Full Stack Developer**
+
+#### Full Stack Developer
 
 ---
 
@@ -11,13 +12,13 @@
 
 ---
 
-## Professional Summary
+### Professional Summary
 
-Backend Developer with extensive experience designing and optimizing APIs, databases, and server-side applications using Node.js, PHP, Laravel, and Express. Adept at building secure, scalable architectures, integrating cloud services (AWS, Alibaba Cloud), and supporting CI/CD pipelines. Strong background in DevOps, containerization with Docker, and performance tuning to ensure reliability and efficiency.
+Full-stack Developer with extensive experience designing and optimizing APIs, databases, and server-side applications using Node.js, PHP, Laravel, and Express. Adept at building secure, scalable architectures, integrating cloud services (AWS, Alibaba Cloud), and supporting CI/CD pipelines. Strong background in DevOps, containerization with Docker, and performance tuning to ensure reliability and efficiency.
 
 ---
 
-## Skills
+### Skills
 
 | Category | Technologies |
 |---|---|
@@ -32,10 +33,10 @@ Backend Developer with extensive experience designing and optimizing APIs, datab
 
 ---
 
-## Work History
+### Work History
 
-### Lead Developer — AiQue Innovation Tech Corp
-*2023-06 – Present* | Full-time, BGC Taguig, Metro Manila
+#### Lead Developer — AiQue Innovation Tech Corp
+<small>*2023-06 – Present* | Full-time, BGC Taguig, Metro Manila</small>
 
 **Projects:**
 - **Qube Smart Locker (IoT System)** — A smart locker management solution integrating IoT hardware with a web-based control system for monitoring, access control, and reporting.
@@ -52,12 +53,12 @@ Backend Developer with extensive experience designing and optimizing APIs, datab
 - Supported DevOps processes, including environment configuration and deployment automation.
 - Contributed to CI/CD pipelines, assisting in automated testing, build, and deployment processes.
 
-**Skills:** React.js · Next.js · React Native · Node.js · GitLab · GitHub · Docker · TypeScript · REST APIs · Alibaba Cloud · CI/CD · HTML · JavaScript · Jira · PostgreSQL · MongoDB
+<small>**TeckStack Used:** React.js · Next.js · React Native · Node.js · GitLab · GitHub · Docker · TypeScript · REST APIs · Alibaba Cloud · CI/CD · HTML · JavaScript · Jira · PostgreSQL · MongoDB · Agile</small>
 
 ---
 
-### Full Stack Web Developer — Eclaro (APPTEGA)
-*2022-06 – 2023-02* | Full-time, Quezon City, Philippines
+#### Full Stack Web Developer — Eclaro (APPTEGA)
+<small>*2022-06 – 2023-02* | Full-time, Quezon City, Philippines</small>
 
 **Role & Responsibilities:**
 - Maintained and enhanced the Apptega security compliance platform.
@@ -66,12 +67,12 @@ Backend Developer with extensive experience designing and optimizing APIs, datab
 - Collaborated with cross-functional teams to deliver stable and scalable releases.
 - Supported Agile development processes and sprint-based delivery.
 
-**Skills:** Angular · PHP · MySQL · Laravel Framework · JavaScript · Node.js · Docker · TypeScript · Scrum
+<small>**TeckStack Used:** Angular · PHP · MySQL · Laravel Framework · JavaScript · Node.js · Docker · TypeScript · Agile</small>
 
 ---
 
-### Full Stack Web Developer — Winterwind
-*2022-02 – 2022-06* | Remote Freelance, Vancouver, Canada
+#### Full Stack Web Developer — Winterwind
+<small>*2022-02 – 2022-06* | Remote Freelance, Vancouver, Canada</small>
 
 **Role & Responsibilities:**
 - Provided technical and development support to multiple project teams across the organization.
@@ -80,12 +81,12 @@ Backend Developer with extensive experience designing and optimizing APIs, datab
 - Supported development, testing, and deployment activities.
 - Ensured system stability and continuous delivery support.
 
-**Skills:** DevOps · PHP · Vue.js · MySQL · Laravel Framework · AWS · Scrum · Trello
+<small>**TeckStack Used:** DevOps · PHP · Vue.js · MySQL · Laravel Framework · AWS · Agile · Trello · Agile </small>
 
 ---
 
-### Full Stack Web Developer — BnB Credit Builders
-*2020-06 – 2022-01* | Remote Freelance, Erie, PA, United States
+#### Full Stack Web Developer — BnB Credit Builders
+<small>*2020-06 – 2022-01* | Remote Freelance, Erie, PA, United States</small>
 
 **Role & Responsibilities:**
 - Developed and maintained existing code, fixed bugs, and API integration.
@@ -96,6 +97,6 @@ Backend Developer with extensive experience designing and optimizing APIs, datab
 - Injected/implemented Node.js API to the system for faster work development.
 - Practiced Scrum methodology.
 
-**Skills:** PHP · Vue.js · MySQL · Laravel Framework · OOP · Laravel · Scrum
+<small>**TeckStack Used:** PHP · Vue.js · MySQL · Laravel Framework · OOP · Laravel · Scrum</small>
 
 
